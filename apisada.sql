@@ -40,7 +40,7 @@ CREATE TABLE `tb_member` (
 --
 
 INSERT INTO `tb_member` (`id`, `First_name`, `Last_name`, `Class`, `Number`) VALUES
-(1, 'อภิษฎา', 'วชิรศรีสุนทรา', '0', 30);
+(1, 'อภิษฎา', 'วชิรศรีสุนทรา', '609', 30);
 
 --
 -- Indexes for dumped tables
